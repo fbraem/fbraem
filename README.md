@@ -9,7 +9,7 @@ I'm a developer for more then 30 years. It all started with a Commodore 64... I'
 *   🌍  I'm based in Kemzeke, Belgium
 *   🖥️  See my portfolio at [Zumuta](http://www.zumuta.be/about.html)
 *   ✉️  You can contact me at [franky.braem@gmail.com](mailto:franky.braem@gmail.com)
-*   🚀  I'm currently working on [Kwai](http://github.com/fbraem/kwai-api)
+*   🚀  I'm currently working on [Kwai](http://github.com/fbraem/kwai)
 *   ⚡  If I'm not programming, chances are I'm on my bike...
 
 ### Skills 
