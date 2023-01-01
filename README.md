@@ -4,7 +4,7 @@ Hi 👋 My name is Franky Braem
 Developer - Frontend/Backend
 ----------------------------
 
-I'm a developer for more then 30 years. It all started with a Commodore 64... I've developed in BASIC, Pascal, Clipper, C/C++, PHP, Java, Perl, Python, JavaScript, ... At work mainly developing web applications with Python/Vue for the network team. At home it's PHP/Vue.
+I'm a developer for more then 30 years. It all started with a Commodore 64... I've developed in BASIC, Pascal, Clipper, C/C++, PHP, Java, Perl, Python, JavaScript, ... At work mainly developing web applications with Python/Vue for the network team. At home it's PHP/Python/Vue.
 
 *   🌍  I'm based in Kemzeke, Belgium
 *   🖥️  See my portfolio at [Zumuta](http://www.zumuta.be/about.html)
